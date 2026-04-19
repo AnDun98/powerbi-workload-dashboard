@@ -116,6 +116,9 @@ Project ⭢ Unit ⭢ Employee
 ### 🌡️ Heatmap Visualization
 - Quick identification of idle petterns
 
+  <img height="170" alt="image" src="https://github.com/user-attachments/assets/6892d2eb-a13b-417f-8398-0831982e0ea1" />
+
+
 ---
 
 ## 🎛️ Filters
