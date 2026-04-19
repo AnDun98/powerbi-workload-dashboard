@@ -86,7 +86,7 @@ Project ⭢ Unit ⭢ Employee
 ### ♟️ KPI Overview
 - Total workload indicators
 - Utilization and Idle rates
-- high-level performance metrics
+- High-level performance metrics
 
 ---
 
@@ -94,6 +94,8 @@ Project ⭢ Unit ⭢ Employee
 - Planned vs Actual workload over time
 - Workload deviations
 - Resource demand dynamics
+
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/05e57e91-0553-4ddb-ae93-0d468a75e6a3" />
 
 ---
 
