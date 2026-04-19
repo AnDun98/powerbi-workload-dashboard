@@ -36,7 +36,7 @@ The solution integrates two main data streams:
 ## 🛢️ Data Model
 The dashboard is built on a structured data model including:
 
-- **Employees** (with department, unit, role, FTE)
+- **Employees** (with unit, job title, FTE)
 - **Projects**
 - **Planned Allocation**
 - **Actual Timesheets**
