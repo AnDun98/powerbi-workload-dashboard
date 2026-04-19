@@ -28,7 +28,7 @@ The solution integrates two main data streams:
  - Expected workload
 
 ### 2. Actual Data
-- Timesheets (spent hours worked)
+- Timesheets (actual hours worked)
 - Real execution data
 
 ---
