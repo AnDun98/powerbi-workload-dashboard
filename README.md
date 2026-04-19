@@ -101,6 +101,8 @@ Project ⭢ Unit ⭢ Employee
 
 ### 🖇️ Organizational Analysis
 - Workload breakdown by Unit
+  <img height="200" alt="image" src="https://github.com/user-attachments/assets/75f44c53-2905-4b8b-9762-fa0d4dbb5e7a" />
+
 - Employee-level analysis
 - Drill-down capabilities
 - Tooltips with Employee by Project details
