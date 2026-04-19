@@ -63,7 +63,7 @@ Project ⭢ Unit ⭢ Employee
 - Idle Mhrs
 - Idle %
 
-<img height="100" alt="image" src="https://github.com/user-attachments/assets/6f20920e-61c0-4b08-9209-4eb9c54af66d" />
+<img height="130" alt="image" src="https://github.com/user-attachments/assets/6f20920e-61c0-4b08-9209-4eb9c54af66d" />
 
 ---
 
