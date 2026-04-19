@@ -3,7 +3,7 @@
 # 📌 Overview
 This project demonstrates building an interactive Power BI dashboard for workload analytics.
 
-The dashboard combines **planned and actual working hours** from different systems to provide full vid=sibility intoemployee workload, capacity usage and resource efficiency.
+The dashboard combines **planned and actual working hours** from different systems to provide full visibility into employee workload, capacity usage and resource efficiency.
 
 ---
 
