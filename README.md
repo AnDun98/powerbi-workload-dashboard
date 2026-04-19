@@ -68,3 +68,77 @@ Project ⭢ Unit ⭢ Employee
 ## 🧠 Calculations
 **Utilization**
 = Spent Mhrs / Capacity
+
+**Allocation**
+= Planned Mhrs / Capacity
+
+**Delta Mhrs**
+= Spent Mhrs - Planned Mhrs
+
+**Idle Mhrs**
+= MAX(0, Capacity - Spent Mhrs)
+
+---
+
+## 📈 Dashboard Features
+### ♟️ KPI Overview
+- Total workload indicators
+- Utilization and Idle rates
+- high-level performance metrics
+
+---
+
+### 📉 Trend Analysis
+- Planned vs Actual workload over time
+- Workload deviations
+- Resource demand dynamics
+
+---
+
+### 🖇️ Organizational Analysis
+- Workload breakdown by Unit
+- Employee-level analysis
+- Drill-down capabilities
+- Tooltips with Employee by Project details
+
+---
+
+### 🌡️ Heatmap Visualization
+- Quick identification of idle petterns
+
+---
+
+## 🎛️ Filters
+The dashboard supports flexible filtering by:
+
+- Project
+- Unit
+- Date
+
+---
+
+## ✔️ Business Value
+This solution enables:
+
+- proactive workload management
+- improved workforce planning
+- reduced idle capacity
+- better resource allocation across Projects
+- increased operational efficiency
+- data-driven decision making in Head of Department
+
+---
+
+## 🛠️ Tech Stack
+- Power BI
+- Python (data preparation & simulation)
+
+---
+
+## 📥 Project Structure
+workload-dashboard/
+|
+|-- data/        # source & prepared datasets
+|-- scripts/     # data generation & transformation logic
+|-- dashboard/   # pbix file
+|-- README.md
