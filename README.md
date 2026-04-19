@@ -136,9 +136,15 @@ This solution enables:
 ---
 
 ## 📥 Project Structure
+
 workload-dashboard/
+
 |
+
 |-- data/        # source & prepared datasets
+
 |-- scripts/     # data generation & transformation logic
+
 |-- dashboard/   # pbix file
+
 |-- README.md
