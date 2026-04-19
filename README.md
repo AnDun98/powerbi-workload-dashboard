@@ -1,4 +1,3 @@
-# powerbi-workload-dashboard
 # 📊 Workload & Resource Utilization Dashboard
 
 # 📌 Overview
